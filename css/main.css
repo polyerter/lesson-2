@@ -1,0 +1,39 @@
+/*p {
+	font-size: 18px;
+}*/
+
+
+.nav {
+	/*background-image: url('');*/
+	background-color: #a22200;
+	display: inline-block;
+	border-bottom: 3px solid #000;
+}
+
+
+.nav .nav-item {
+	float: left;
+
+	list-style-type: none;
+
+	margin-left: 50px;
+
+	text-transform: uppercase;
+}
+
+.nav .nav-item a { 
+	/*padding: 10px;*/
+
+	/*padding-top: 10px;*/
+	/*padding-bottom: 10px;*/
+	/*padding-left: 25px;*/
+	/*padding-right: 25px;*/
+
+	padding: 10px 25px 10px 25px;
+	line-height: 35px;
+	color: #ffffff;
+}
+
+.nav .nav-item.active a {
+	color: #000;
+}
