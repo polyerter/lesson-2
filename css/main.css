@@ -13,15 +13,12 @@
 
 .nav .nav-item {
 	float: left;
-
 	list-style-type: none;
-
 	margin-left: 50px;
-
 	text-transform: uppercase;
 }
 
-.nav .nav-item a { 
+.nav .nav-item a {
 	/*padding: 10px;*/
 
 	/*padding-top: 10px;*/
